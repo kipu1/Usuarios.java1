@@ -1,0 +1,1 @@
+insert into Usuario(id,Nombre,clave,email,estado) values(1,"kevin","1234", "k@live.com",true);
